@@ -6,11 +6,11 @@
 
 
 #Analysis for question01
-![alt text](https://imgur.com/N4qWm08)
-![alt text](https://imgur.com/oZdUm9Z)
+![CPU Usage](https://github.com/zoeylee/codingTest/blob/master/analysis/AnaysisForCpuUsage01.png)
+![Memory Usage](https://github.com/zoeylee/codingTest/blob/master/analysis/AnaysisForMemoryUsage01.png)
 
 #Analysis for question02
-![alt text](https://imgur.com/VNEndMF)
-![alt text](https://imgur.com/E6CuI6k)
+![CPU USage](https://github.com/zoeylee/codingTest/blob/master/analysis/AnaysisForCPUUsage02.png)
+![Memory Usage](https://github.com/zoeylee/codingTest/blob/master/analysis/AnaysisForMemoryUsage02.png)
 
 
